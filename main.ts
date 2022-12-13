@@ -99,6 +99,3 @@ OP = 0
 číslo1 = 0
 číslo2 = 0
 číslo1 = 0
-basic.forever(function () {
-	
-})
